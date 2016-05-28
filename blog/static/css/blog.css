@@ -4,13 +4,14 @@
     padding: 20px 20px 20px 40px;
 }
 
-.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active, .page-header h1 a:hover {
     color: #FFF;
     font-family: courier;
     font-weight: bold;
     font-stretch: expanded;
     text-shadow: 0.1em 0.1em 0.2em black;
     font-size: 33pt;
+    text-decoration: none;
     text-align: left;
 }
 
